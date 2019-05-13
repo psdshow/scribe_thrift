@@ -1,0 +1,18 @@
+{
+    "name": "psdshow/scribe_thrift",
+    "description": "",
+    "keywords": [],
+    "homepage": "https://github.com/psdshow/",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "psdshow",
+            "email": "psdshow@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "packaged/thrift": "0.11.0"
+    }
+}
